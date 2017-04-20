@@ -13,7 +13,7 @@
      <string>software-package</string>
      <key>url</key>
      <!-- http或者https链接的ipa文件地址 -->
-     <string>\app\ios\yh.ipa</string>
+     <string>http://dujinyang.tunnel.2bdata.com/app/ios/yh.ipa</string>
     </dict>
     <dict>
      <key>kind</key>
@@ -22,7 +22,7 @@
      <true/>
      <key>url</key>
      <!-- http或者https链接的图片地址，可直接使用app对应的icon（分辨率没强制要求） -->
-     <string>/images/logo_im.png</string>
+     <string>http://dujinyang.tunnel.2bdata.com//images/logo_im.png</string>
     </dict>
     <dict>
      <key>kind</key>
@@ -31,7 +31,7 @@
      <true/>
      <key>url</key>
      <!-- http或者https链接的小图片地址，可直接使用app对应的icon（分辨率没强制要求） -->
-     <string>/images/logo_im.png</string>
+     <string>http://dujinyang.tunnel.2bdata.com/images/logo_im.png</string>
     </dict>
    </array>
    <key>metadata</key>
