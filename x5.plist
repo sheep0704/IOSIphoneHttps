@@ -9,6 +9,7 @@
    <key>assets</key>
    <array>
     <dict>
+      <!-- KEY -->
      <key>kind</key>
      <string>software-package</string>
      <key>url</key>
