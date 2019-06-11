@@ -55,7 +55,7 @@ http://dujinyang.blog.csdn.net
 ![image](https://img-blog.csdn.net/20170420161354914?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvREpZMTk5Mg==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
 
-![image](https://img-blog.csdnimg.cn/20190611142039522.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9kdWppbnlhbmcuYmxvZy5jc2RuLm5ldA==,size_16,color_FFFFFF,t_70)
+![image](https://github.com/sheep0704/IOSIphoneHttps/blob/master/python2048.jpg)
 
 
 
