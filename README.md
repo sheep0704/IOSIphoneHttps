@@ -47,6 +47,7 @@ http://dujinyang.blog.csdn.net
 
 
 
+<img src="https://github.com/sheep0704/IOSIphoneHttps/blob/master/python2048.jpg" width="10" height="10">
 
 分享下效果图：
 
@@ -58,6 +59,5 @@ http://dujinyang.blog.csdn.net
 ![image](https://github.com/sheep0704/IOSIphoneHttps/blob/master/python2048.jpg)
  
 
-<img src="https://github.com/sheep0704/IOSIphoneHttps/blob/master/python2048.jpg" width="150" height="150">
  
 
