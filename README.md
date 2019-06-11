@@ -57,7 +57,9 @@ http://dujinyang.blog.csdn.net
 
 ![image](https://github.com/sheep0704/IOSIphoneHttps/blob/master/python2048.jpg)
 
+<img style="width:10px;height:10px" src="https://github.com/sheep0704/IOSIphoneHttps/blob/master/python2048.jpg"  alt="python2048" align=center />
 
+<body background="https://github.com/sheep0704/IOSIphoneHttps/blob/master/python2048.jpg" style="background-size:auto 256px"> </body>
 
 
 
