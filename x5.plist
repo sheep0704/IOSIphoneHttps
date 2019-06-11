@@ -47,7 +47,7 @@
     <string>software</string>
     <key>title</key>
     <!-- 安装app时的提示信息 -->
-    <string>YinHu App 正在安装中…</string>
+    <string>YinHu App install…</string>
    </dict>
   </dict>
  </array>
