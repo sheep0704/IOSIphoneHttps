@@ -9,7 +9,7 @@
 通过A标签调起安装
 扩展-（可通过js判断是否安装，如果未安装直接安装，安装了就下载）
 早上在撸HTML5，有个下载页的需求，需要安卓和苹果，一般来说苹果用第三方或者AppStore的，但这次是在内部使用的App和Ipa，所以得有个方法来绕过这个，其实第三方实现的原理也是如此，来看下执行步骤。
-
+<br/>
 首先，下载plist 文件模版：点我下载
 外链：https://github.com/sheep0704/IOSIphoneHttps/blob/master/x5.plist
 注意细节，如果自己复制模版，不要漏下下面的声明：
@@ -17,7 +17,7 @@
  
  
 
-
+<br/>
 然后把plist文件放在https服务目录下，如果没有服务器的建议使用BaiduYun或者Github来进行测试，如果浏览器提示【无法连接到github.com】，请检查plist文件和服务器的拦截问题，有些马大哈也会把xml写错，可直接用浏览器访问plist地址看看。
 
 然后通过A标签写入进行测试
@@ -34,10 +34,6 @@
 
 
 
-分享下效果图：
-
-奥特曼超人 - KARL-Dujinyang
-
 
 总结：一开始调试几次发现不行，因为用的是NGR，映射了127.0.0.1的Tomcat，所以后来替换回我们自己的服务器地址，经过测试是可行的，所以建议中间不要有转发的过程，直接用外网服务器进行测试。 
 
@@ -47,4 +43,21 @@
 http://blog.csdn.net/djy1992/article/details/70267202
 
 http://dujinyang.blog.csdn.net
+
+
+
+
+
+分享下效果图：
+
+奥特曼超人 - KARL-Dujinyang
+
+![image](https://img-blog.csdn.net/20170420161354914?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvREpZMTk5Mg==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+
+
+![image](https://img-blog.csdnimg.cn/20190611142039522.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9kdWppbnlhbmcuYmxvZy5jc2RuLm5ldA==,size_16,color_FFFFFF,t_70)
+
+
+
+
 
