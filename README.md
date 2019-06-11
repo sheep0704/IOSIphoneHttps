@@ -47,7 +47,6 @@ http://dujinyang.blog.csdn.net
 
 
 
-<img src="https://github.com/sheep0704/IOSIphoneHttps/blob/master/python2048.jpg" width="10" height="10">
 
 分享下效果图：
 
@@ -55,9 +54,14 @@ http://dujinyang.blog.csdn.net
 
 ![image](https://img-blog.csdn.net/20170420161354914?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvREpZMTk5Mg==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
+<hr/>
 
-![image](https://github.com/sheep0704/IOSIphoneHttps/blob/master/python2048.jpg)
- 
+有兴趣的可以关注【Python2048】 公众号
+分享赚钱 、技术、灰色产业、职业规划、逆向破解等趣事……
+
+<img src="https://github.com/sheep0704/IOSIphoneHttps/blob/master/python2048.jpg" width="250" height="250">
+
+
 
  
 
