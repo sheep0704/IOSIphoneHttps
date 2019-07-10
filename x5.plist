@@ -9,7 +9,7 @@
    <key>assets</key>
    <array>
     <dict>
-      <!-- KEY -->
+      <!-- KEY 测试后建议缩短-->
      <key>kind</key>
      <string>software-package</string>
      <key>url</key>
@@ -17,6 +17,7 @@
      <string>https://ad.infoxgame.com/YinHuOA-H5/app/ios/yh.ipa</string>
     </dict>
     <dict>
+     <!--KEY 测试后建议缩短-->
      <key>kind</key>
      <string>full-size-image</string>
      <key>needs-shine</key>
