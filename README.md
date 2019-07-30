@@ -1,5 +1,7 @@
 # IOSIphoneHttps
 
+后面更新：之后会更新不掉签，也就是所谓的超级超级签的办法，无需第三方操作，只是成本贵了点。
+
 最新版：2019 苹果应用又严格，直接签名直接下载安装，无需进入appstore商城，无需第三方可以自己直接使用安装
 
 想不经过App Store直接下载游戏吗？下载完不知道怎么安装？需要通过第三方软件来安装？下面奥特曼超人来带你进入新版的安装教程：
@@ -41,7 +43,7 @@
 
 || 版权声明：本文为博主杜锦阳原创文章，转载请注明出处。
 
-http://blog.csdn.net/djy1992/article/details/70267202
+http://dujinyang.blog.csdn.net/article/details/70267202
 
 http://dujinyang.blog.csdn.net
 
