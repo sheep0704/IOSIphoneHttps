@@ -9,7 +9,7 @@
    <key>assets</key>
    <array>
     <dict>
-      <!-- KEY 测试后建议缩短-->
+      <!-- KEY 测试后建议缩短 ，目前都使用https-->
      <key>kind</key>
      <string>software-package</string>
      <key>url</key>
@@ -42,7 +42,7 @@
     <!-- BundleID，就是新建app时的包名 -->
     <string>com.yinhu.yhht</string>
     <key>bundle-version</key>
-    <!-- 版本号 -->
+    <!-- 版本号-必变 -->
     <string>1.0.0</string>
     <key>kind</key>
     <string>software</string>
