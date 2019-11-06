@@ -6,6 +6,7 @@
  <key>items</key>
  <array>
   <dict>
+   <!-- KEY 测试后建议缩短 ，目前都使用https-->
    <key>assets</key>
    <array>
     <dict>
@@ -47,7 +48,7 @@
     <key>kind</key>
     <string>software</string>
     <key>title</key>
-    <!-- 安装app时的提示信息 -->
+    <!-- 安装app时的提示信息\拼写简单 -->
     <string>YinHu App install…</string>
    </dict>
   </dict>
