@@ -1,6 +1,10 @@
 # IOSIphoneHttps
 
- 
+* [英文版]:https://github.com/sheep0704/IOSIphoneHttps/blob/master/README_eng.md
+* [中文版]:https://github.com/sheep0704/IOSIphoneHttps/blob/master/README.md
+
+<br/>
+
  * 今日更新：最近超级签相关的封号严重，都是关联引起，建议不要绑定同一张卡。
 
  * 后面更新：之后会更新不掉签，也就是所谓的超级超级签的办法，无需第三方操作，只是成本贵了点。
