@@ -72,7 +72,6 @@ http://dujinyang.blog.csdn.net
 
 <img src="https://github.com/sheep0704/IOSIphoneHttps/blob/master/python2048-.jpg" width="400" height="400">
 
-![image](https://github.com/sheep0704/IOSIphoneHttps/blob/master/python2048-.jpg)
 
 
 
